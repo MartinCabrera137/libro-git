@@ -1,7 +1,6 @@
 ##Martin Cabrera Hernandez 18100154
 ###Lista de ejercicicios
-#### Ejercicios de creación y actualización de repositorios (ejercicios básicos)
-#### 1. Ejercicios de manejo del historial de cambios
+#### 1.-Ejercicios de creación y actualización de repositorios (ejercicios básicos)
 
 Ejercicio 1
 
@@ -56,7 +55,8 @@ Ejercicio 6
 
 [![6.jpg](https://i.postimg.cc/BZCPczyc/6.jpg)](https://postimg.cc/RqN0vgvN)
 
-#### 2. Ejercicios de deshacer cambios
+#### 2.- Ejercicios de manejo del historial de cambios
+
 Ejercicio 1
 1.- Mostrar el historial de cambios del repositorio.
 Crear la carpeta capitulos y crear dentro de ella el fichero capitulo1.txt con el siguiente texto.
@@ -97,5 +97,5 @@ Ejercicio 4
 
 
 
-#### 3. Ejercicios de gestión de ramas
-#### 4. Ejercicios de repositorios remotos
+#### 3. Ejercicios de deshacer cambios 
+#### 4. Ejercicios de gestion de ramas
