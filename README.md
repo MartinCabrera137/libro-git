@@ -144,3 +144,28 @@ Ejercicio 4
 [![imagen-2022-09-18-182315208.png](https://i.postimg.cc/52wNmYKY/imagen-2022-09-18-182315208.png)](https://postimg.cc/QFd38t3h)
 
 #### 4. Ejercicios de gestion de ramas
+Ejercicio 1
+1. Crear una nueva rama bibliografia y mostrar las ramas del repositorio.
+
+[![imagen-2022-09-18-182705679.png](https://i.postimg.cc/c1RS2yM2/imagen-2022-09-18-182705679.png)](https://postimg.cc/0ryFK440)
+
+
+Ejercicio 2
+1. Crear el fichero capitulos/capitulo4.txt y añadir el texto siguiente
+2. En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
+4. Añadir los cambios a la zona de intercambio temporal.
+5. Hacer un commit con el mensaje “Añadido capítulo 4.”
+6. Mostrar la historia del repositorio incluyendo todas las ramas.
+
+[![imagen-2022-09-18-183648965.png](https://i.postimg.cc/Bb6BTGqb/imagen-2022-09-18-183648965.png)](https://postimg.cc/HcqMmR81)
+
+
+Ejercicio 3
+1. Cambiar a la rama bibliografia.
+2. Crear el fichero bibliografia.txt y añadir la siguiente referencia 
+Chacon, S. and Straub, B. Pro Git. Apress.
+4. Añadir los cambios a la zona de intercambio temporal.
+5. Hacer un commit con el mensaje “Añadida primera referencia bibliográfica.”
+6. Mostrar la historia del repositorio incluyendo todas las ramas.
+
+[![imagen-2022-09-18-183920725.png](https://i.postimg.cc/Qt6pxnp3/imagen-2022-09-18-183920725.png)](https://postimg.cc/BLK8mpYY)
